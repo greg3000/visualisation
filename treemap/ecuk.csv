@@ -1,0 +1,24 @@
+color,cat,type,consumption
+-29,Light,Halogen,22.622
+-28,Light,Fluorescent Strip Lighting,65.382
+-27,Light,Energy Saving Light Bulb,8.849
+-26,Light,LED,9.471
+-9,Cold,Chest Freezer,149.374
+-8,Cold,Fridge-freezer,302.576
+-7,Cold,Refrigerator,134.172
+-6,Cold,Upright Freezer,188.839
+1,Wet,Washing Machine,200.496
+2,Wet,Washer-dryer,539.339
+3,Wet,Dishwasher,296.038
+4,Wet,Tumble Dryer,416.381
+11,Electronics,TV,259.697
+12,Electronics,Set Top Box,41.684
+13,Electronics,DVD/VCR2,15.924
+14,Electronics,Games Consoles3,9.547
+15,Electronics,Power Supply Units,33.398
+21,Computing,Desktops,193.875
+22,Computing,Laptops,37.178
+23,Computing,Monitors,206.706
+31,Cooking,Electric Oven,172.375
+32,Cooking,Electric Hob,244.408
+33,Cooking,Microwave,90.72
